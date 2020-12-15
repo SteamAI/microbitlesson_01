@@ -1,5 +1,5 @@
 {
-    "name": "Name Tag",
+    "name": "课程1:按键与显示",
     "description": "",
     "dependencies": {
         "core": "*",
